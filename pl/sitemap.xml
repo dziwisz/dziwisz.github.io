@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://dziwisz.github.io//#t3c</loc>
+    <lastmod>2017-04-10T16:18:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dziwisz.github.io//#faq</loc>
+    <lastmod>2017-04-10T15:49:59+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://dziwisz.github.io//#</loc>
+    <lastmod>2017-04-10T16:18:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://dziwisz.github.io//#</loc>
+    <lastmod>2017-04-10T16:18:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
